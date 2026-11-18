@@ -1,40 +1,57 @@
-# Hi, I'm Matheus Galhardi 👋
+<div align="center">
+  <img src="./assets/hero.svg" alt="Matheus Galhardi — Software Development, Backend and Automation" width="100%" />
+</div>
 
-**Software Development Student | IT Support | Java & Backend Development**
+<br/>
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-galhardi-3b46622b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mgalhardi-alt?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-18263D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+</div>
 
-I'm a Brazilian software development student interested in backend engineering, practical automation, and building useful applications.
+<br/>
 
-## Technologies & Tools
+### `01 / ABOUT ME`
 
-- **Programming:** Java, Python, SQL
-- **Databases:** MySQL
-- **Tools & Environments:** Git, GitHub, Linux
-- **Exploring:** Android development, REST APIs, software architecture
+Brazilian **software development student** working in **IT support**, interested in backend engineering, automation, and building useful applications.
 
-## Focus Areas
+> **Build with purpose. Learn continuously. Keep improving.**
 
-- Building reliable applications and learning backend development
-- Turning everyday problems into practical software solutions
-- Understanding databases, APIs, and clean code
-- Exploring automation and developer productivity
+### `02 / TECH STACK`
 
-## Currently Learning
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,linux&theme=dark" alt="Java, Python, MySQL, Git, GitHub and Linux" />
 
-- Java and object-oriented programming
-- RESTful APIs and backend fundamentals
-- SQL and database design
-- Android application architecture
+<br/>
 
-## Projects
+**Core interests:** Java · SQL · Backend Development · Automation
 
-I'm currently building personal projects and preparing future work to share publicly here.
+**Also exploring:** Android development · REST APIs · Software architecture
 
-## Connect
+### `03 / CURRENT FOCUS`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Galhardi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-galhardi-3b46622b2/)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>⚡ Backend</strong><br/><br/>
+      Java fundamentals, object-oriented programming, APIs, and database design.
+    </td>
+    <td width="33%" valign="top">
+      <strong>◈ Applications</strong><br/><br/>
+      Building practical Android projects with attention to usability and reliability.
+    </td>
+    <td width="33%" valign="top">
+      <strong>⌘ Automation</strong><br/><br/>
+      Exploring how software can simplify workflows and everyday tasks.
+    </td>
+  </tr>
+</table>
+
+### `04 / PROJECTS`
+
+Working on personal projects and preparing future public releases. More to come.
+
+---
+
+<div align="center">
+  <sub>Curiosity → Code → Progress</sub>
+</div>
