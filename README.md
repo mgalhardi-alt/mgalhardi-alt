@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Matheus Galhardi — Software Development, Backend and Automation" width="100%" />
+  <img src="./assets/hero.svg" alt="Matheus Galhardi — Full Stack, Backend, Mobile and Automation" width="100%" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 
 ### `01 / ABOUT ME`
 
-Brazilian **software development student** working in **IT support**, interested in backend engineering, automation, and building useful applications.
+Brazilian **Software Development student** working in **IT support**, focused on growing into **Full Stack Development**, with a strong interest in **backend engineering**, Android applications, and automation.
 
 > **Build with purpose. Learn continuously. Keep improving.**
 
@@ -23,25 +23,25 @@ Brazilian **software development student** working in **IT support**, interested
 
 <br/>
 
-**Core interests:** Java · SQL · Backend Development · Automation
+**Learning & working with:** Java · Python · SQL · Git · Linux
 
-**Also exploring:** Android development · REST APIs · Software architecture
+**Expanding into:** Frontend & Backend · REST APIs · Android Development · Software Architecture
 
 ### `03 / CURRENT FOCUS`
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>⚡ Backend</strong><br/><br/>
-      Java fundamentals, object-oriented programming, APIs, and database design.
+      <strong>✦ Full Stack</strong><br/><br/>
+      Learning to connect frontend, backend, APIs, and databases into complete web applications.
     </td>
     <td width="33%" valign="top">
-      <strong>◈ Applications</strong><br/><br/>
-      Building practical Android projects with attention to usability and reliability.
+      <strong>⚡ Software Engineering</strong><br/><br/>
+      Deepening my Java, object-oriented programming, API development, and software design skills.
     </td>
     <td width="33%" valign="top">
-      <strong>⌘ Automation</strong><br/><br/>
-      Exploring how software can simplify workflows and everyday tasks.
+      <strong>⌘ Mobile &amp; Automation</strong><br/><br/>
+      Building Android projects and exploring software solutions that simplify everyday workflows.
     </td>
   </tr>
 </table>
