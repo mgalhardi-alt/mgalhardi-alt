@@ -10,8 +10,6 @@
 
 I'm a Brazilian software development student interested in backend engineering, practical automation, and building useful applications.
 
-I work in IT support and have contributed to internal software and automation initiatives, including requirements gathering, workflow organization, and technical collaboration. I'm continuously developing my programming skills through hands-on projects.
-
 ## Technologies & Tools
 
 - **Programming:** Java, Python, SQL
