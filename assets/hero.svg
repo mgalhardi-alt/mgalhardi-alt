@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Matheus Galhardi - Software development, backend and automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d1c"/>
+      <stop offset="0.52" stop-color="#101b34"/>
+      <stop offset="1" stop-color="#081322"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5ad7ff"/>
+      <stop offset="1" stop-color="#647cff"/>
+    </linearGradient>
+    <radialGradient id="bloom">
+      <stop offset="0" stop-color="#3479e9" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#3479e9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#6ba1d5" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="330" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
+    <ellipse cx="990" cy="145" rx="360" ry="310" fill="url(#bloom)"/>
+    <path d="M0 329H1200" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M835 0L670 330M1140 0L975 330" stroke="#6c9ce8" stroke-opacity=".08" stroke-width="2"/>
+    <rect x="62" y="45" width="57" height="57" rx="15" fill="#172d4d" stroke="#4ca4d8" stroke-opacity=".6"/>
+    <text x="90.5" y="82" text-anchor="middle" fill="#c5f3ff" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1">MG</text>
+    <rect x="137" y="56" width="234" height="35" rx="17.5" fill="#172945" stroke="#3e6f9b" stroke-opacity=".5"/>
+    <circle cx="158" cy="73.5" r="4" fill="#4de5c7"/>
+    <text x="174" y="79" fill="#b8cbe6" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="600" letter-spacing="1.6">SOFTWARE DEVELOPER</text>
+    <text x="62" y="180" fill="#f5f9ff" font-size="58" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="1">MATHEUS</text>
+    <text x="62" y="238" fill="url(#accent)" font-size="58" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="1">GALHARDI</text>
+    <text x="65" y="280" fill="#a5bad5" font-size="18" font-family="Arial, Helvetica, sans-serif">Backend  /  Automation  /  Android</text>
+    <circle cx="992" cy="165" r="124" fill="none" stroke="#498ce7" stroke-opacity=".22" stroke-width="1.4"/>
+    <circle cx="992" cy="165" r="91" fill="none" stroke="#57c5ee" stroke-opacity=".43" stroke-width="1.7" stroke-dasharray="6 10"/>
+    <circle cx="992" cy="165" r="64" fill="#0a1d36" stroke="#6db2e8" stroke-opacity=".4" stroke-width="2"/>
+    <circle cx="992" cy="165" r="112" fill="none" stroke="url(#accent)" stroke-width="4" stroke-dasharray="122 580" transform="rotate(-62 992 165)" stroke-linecap="round"/>
+    <circle cx="992" cy="165" r="112" fill="none" stroke="#6b7eff" stroke-opacity=".8" stroke-width="4" stroke-dasharray="65 638" transform="rotate(136 992 165)" stroke-linecap="round"/>
+    <circle cx="1082" cy="117" r="6" fill="#51d9ff"/>
+    <circle cx="889" cy="121" r="4" fill="#899aff"/>
+    <circle cx="973" cy="274" r="5" fill="#4fe2c2"/>
+    <text x="992" y="181" text-anchor="middle" fill="#c3efff" font-size="49" font-family="Consolas, 'Courier New', monospace" font-weight="700">{ }</text>
+    <path d="M815 274h88M1082 48h56M1115 275h54" stroke="#5f9bc8" stroke-opacity=".32" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="815" cy="274" r="3" fill="#58bfed"/>
+    <circle cx="1138" cy="48" r="3" fill="#58bfed"/>
+  </g>
+</svg>
